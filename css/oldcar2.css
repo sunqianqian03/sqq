@@ -1,0 +1,93 @@
+nav{
+    background-color:rgb(233,233,233);
+    overflow: hidden;
+}
+.banner{
+    width:6.4rem;
+    overflow:hidden;
+}
+.banner h3{
+    text-align:center;
+    color:#555;
+    height:0.5rem;
+    line-height: 0.5rem;
+    margin-bottom:0.2rem;
+}
+.banner section img{
+    width:2.8rem;
+    float:left;
+    margin:0.1rem;
+}
+.banner section p{
+    float:left;
+    width:3rem;
+    line-height: 0.4rem;
+}
+.banner section p span.t{
+    font-size:0.3rem;
+    color:#555;
+    display:block;
+    line-height:0.5rem;
+}
+.banner section p span.p{
+    color:#22f;
+    line-height: 0.3rem;
+    font-size:0.25rem;
+}
+.car{
+    width:6rem;
+    overflow: hidden;
+    margin:0.1rem;
+}
+.car span{
+    display: block;
+    width:2.5rem;
+    height:0.4rem;
+    float:left;
+    line-height:0.4rem;
+    margin:0.1rem;
+}
+.form1 form{
+    /* overflow: hidden; */
+}
+div.form1  p{
+    width:6rem;
+    height:0.4rem;
+    line-height:0.4rem;
+    font-size:0.3rem;
+    margin:0.1rem;
+   
+}
+div.form1 form p span{
+    width:2.5rem;
+    height:0.4rem;
+    line-height:0.4rem;
+    display: block;
+    text-align:right;
+    float:left;
+    color:#000;
+}
+div.form1 input{
+    width:2.5rem;
+    height:0.3rem;
+    line-height: 0.4rem;
+    color:#555;
+    /* float:left; */
+    border:0.01rem solid #888;
+    border-radius:0.02rem;
+}
+div.form1 input[type=submit]{
+    width:2.5rem;
+    height:0.5rem;
+    font-size:0.3rem;
+    border-radius: 0.05rem;;
+}
+footer{
+    width:6.4rem;
+    background:rgb(233,233,233);
+    color:3555;
+    text-align:center;
+    line-height:0.5rem;
+    font-size:0.25rem;
+    margin-top:0.1rem;
+}
